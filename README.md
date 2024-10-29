@@ -6,7 +6,7 @@ Hi, if you're seeing this repository then you're most probably a friend of mine 
 3. I will use comments to explain the logic wherever necessary but you will only be able to understand the solutions if you spend time with the problem and the solution yourself.
 4. If you still have trouble understanding then just drop me a mail and I will try my level best to make you understand.
 ## Naming Convention
-All files in each repi will be named as
+All files in each repository will be named as - 
 > A1Q1
 
 Here the first number i.e. A***1***Q01 will denote the assignment number and the second number i.e. A1Q***01*** will denote the question number in that assignment.
