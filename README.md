@@ -7,7 +7,7 @@ Hi, if you're seeing this repository then you're most probably a friend of mine 
 4. If you still have trouble understanding then just drop me a mail and I will try my level best to make you understand.
 ## Naming Convention
 All files in each repository will be named as - 
-> A1Q1
+> A1Q01
 
 Here the first number i.e. A***1***Q01 will denote the assignment number and the second number i.e. A1Q***01*** will denote the question number in that assignment.
 
